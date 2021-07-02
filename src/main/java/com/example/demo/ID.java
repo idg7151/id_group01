@@ -1,5 +1,5 @@
 package com.example.demo;
 
 public class ID {
-	//石多栄
+	//石多栄dayooo
 }
